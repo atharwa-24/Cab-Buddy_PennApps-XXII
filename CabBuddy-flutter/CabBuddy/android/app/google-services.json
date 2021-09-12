@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273975370909",
+    "project_id": "cab-buddy-17f44",
+    "storage_bucket": "cab-buddy-17f44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273975370909:android:53ec2c7d035e8de2386074",
+        "android_client_info": {
+          "package_name": "com.example.cabbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273975370909-nk9d104c3s2tc9c57avaut4p47tku519.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyOqNeUv6FOp-iNBDWabAqmd6_VTelLBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273975370909-nk9d104c3s2tc9c57avaut4p47tku519.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
